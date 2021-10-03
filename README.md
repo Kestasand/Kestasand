@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kestasand
 - 👀 I’m interested in development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and JS
 - 💞️ I’m looking to collaborate on small projects as i just started my journey
 - 📫 You can reach me by mail: kestasand@yahoo.com
 
